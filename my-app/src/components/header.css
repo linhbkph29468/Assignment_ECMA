@@ -1,0 +1,12 @@
+ul li a {
+    /* list-style: none; */
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.logo {
+    max-width: 20px;
+}

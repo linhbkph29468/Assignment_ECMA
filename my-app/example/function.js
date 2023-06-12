@@ -18,6 +18,6 @@
 // console.log(arrowFunction(50, 50));
 
 
-const bai1 = (a) => {
-    for (i = 0; )
-}  
+// const bai1 = (a) => {
+//     for (i = 0){}
+// }  
